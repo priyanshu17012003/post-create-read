@@ -1,0 +1,14 @@
+
+.postBox{
+    height: 30rem;
+    border: 2px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgb(156, 156, 235);
+    margin: 1rem;
+    padding: 2rem;
+    width: 20rem;
+}
+
+.tags{
+    margin: 2px;
+}
